@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/Private-Botz/Elsa-Bot.git /Elsa-Bot
+  git clone https://github.com/mksir12/filluv2.git /Elsa-Bot
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Elsa-Bot
