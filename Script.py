@@ -51,6 +51,10 @@ Here is the help for my COMMANDS."""
 2. Make sure that your channel does not contains camrips, p*rn and fake files.
 3. Forward the last message to me with quotes.
  I'll add all the files in that channel to my db."""
+
+    CUSTOM_FILE_CAPTION_TXT = """ hi..
+hii
+   """
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
